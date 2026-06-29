@@ -1,0 +1,18 @@
+# Gabaritos dos desafios (não devem ser versionados)
+*Gabarito*
+*gabarito*
+
+# Lixo do macOS
+__MACOSX/
+.DS_Store
+
+# Saídas geradas pelos notebooks
+desafios/**/output/
+desafios/**/runs/
+**/_teste_*.py
+**/_teste_*.png
+
+# Checkpoints e caches Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
